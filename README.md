@@ -7,7 +7,7 @@ Django is a popular back-end server-side web framework written in Python. It is 
 
 ## :point_right: Getting Started with Django
 
-If you're new to Django, you can start by following the official Django documentation tutorial <a href="https://docs.djangoproject.com/en/5.0/">here</a>which provides a step-by-step guide on how to install and create a Django project. The tutorial covers essential aspects such as creating a project, working with HTML templates, using Django template tags, working with QuerySets to extract, filter, and sort data from the database, setting up a PostgreSQL database, and deploying your Django project to the worldwhich provides a step-by-step guide on how to install and create a Django project. The tutorial covers essential aspects such as creating a project, working with HTML templates, using Django template tags, working with QuerySets to extract, filter, and sort data from the database, setting up a PostgreSQL database, and deploying your Django project to the world.
+If you're new to **Django**, you can start by following the official Django documentation tutorial <a href="https://docs.djangoproject.com/en/5.0/">here</a> which provides a *step-by-step guide* on how to *install* and *create* a Django project. The tutorial covers essential aspects such as creating a project, working with `HTML` templates, using Django template tags, working with `QuerySets` to extract, filter, and sort data from the database, setting up a `PostgreSQL` database, and deploying your Django project to the world.
 
 ## :round_pushpin: Features and Architecture of Django
 
