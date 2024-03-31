@@ -19,4 +19,4 @@ In addition to the official documentation, there are other resources available f
 - Django Tutorial from basic to advanced by <a href="https://www.geeksforgeeks.org/django-tutorial/">geeksforgeeks</a>
 - The tutorial is relevant to <a href="https://www.pythontutorial.net/django-tutorial/" >Django 4.x</a>
 - Tutorial by <a href="https://www.scaler.com/topics/django/">scalar</a>
-- 
+- I prefer this <a href="https://metanit.com/python/django/1.1.php"> here</a>. Just tranlate the pages to English.
