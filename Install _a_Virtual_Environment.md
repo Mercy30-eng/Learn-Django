@@ -78,4 +78,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 When we are done with the virtual environment, we can deactivate it with the following command:
 `deactivate`
 
-<img width="863" alt="image" src="https://github.com/Mercy30-eng/Learn-Django/assets/85012190/860a7a36-ba0e-4629-9cdf-fdf50e40f0e3"
+<img width="400" height="auto" src="https://github.com/Mercy30-eng/Learn-Django/assets/85012190/860a7a36-ba0e-4629-9cdf-fdf50e40f0e3"
