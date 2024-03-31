@@ -1,7 +1,7 @@
 # :star: Learn-Django
 > New to Django? Let's learn together!
 
-##:star: Introduction to Django -- Tutorial
+## :star: Introduction to Django -- Tutorial
 
 Django is a popular back-end server-side web framework written in Python. It is known for its ease of use, rapid development, and clean, pragmatic design. The framework is widely used for building and maintaining quality web applications, and it encourages the creation of complex, database-driven websites. If you're interested in learning Django, there are various resources available to help you get started.
 
