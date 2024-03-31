@@ -7,8 +7,8 @@ In principle, it is possible to run applications in Django without a virtual env
 To work with the virtual environment, python uses the built-in venv module
 
 So, let's create a virtual environment. First, let's define a directory for django projects. For example, let's say it's the `C:\django` directory. First of all, let's navigate to this directory in the terminal/command line using the cd command.
-  ``` cd C:\django
-  ```
+  ` cd C:\django`
+  
 Then, to create a virtual environment, run the following command:
 `python -m venv .venv`
 The venv module is given the name of the environment, which in this case will be called ".venv". There are no specific conventions for naming virtual environments.
@@ -33,9 +33,9 @@ C:\Users\eugen>cd C:\django
 C:\django>python -m venv .venv
 
 C:\django>.venv\Scripts\activate.bat    Activating the virtual environment 
-```
 
 (.venv) C:\django>    The virtual environment is activated
+```
 ### Installing Django
 After activating the virtual environment to install Django, run the following command in the console
 `python -m pip install Django`
